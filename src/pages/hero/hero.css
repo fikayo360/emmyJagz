@@ -237,7 +237,7 @@
 }
 
 @media (min-width: 250px) and (max-width: 360px){
-
+    
      #navWrap ul,#socialIcons{
         display: none;
     }
@@ -331,7 +331,7 @@
 }
 
 @media (min-width: 481px) and (max-width: 680px){
-  
+   
      #navWrap ul,#socialIcons{
         display: none;
     }
@@ -378,7 +378,7 @@
 }
 
 @media (min-width: 681px) and (max-width: 768px){
-
+   
      #navWrap ul,#socialIcons{
         display: none;
     }
@@ -468,7 +468,6 @@
 }
 
 @media (min-width: 1025px) and (max-width: 1280px){
-    
 
    #heroOther{
    margin-top: 2rem;
